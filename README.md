@@ -1,2 +1,0 @@
-# SCRUM
-certificado scrum master
